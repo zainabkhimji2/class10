@@ -1,2 +1,2 @@
-# class8
-piaic class 8  date : 15-may-2024. wednesday  
+# class10
+piaic class 10  date : 29-may-2024. wednesday . 
